@@ -10,7 +10,12 @@ A simple tool to automatically shut down or put your computer to sleep after Ste
 
 ## Installation (have python installed)
 
-To get started with Auto-Shutdown Steam Download, follow these steps:
+# Easier way
+1. Download ZIP folder
+2. Extract
+3. Double-click RUNME.bat
+
+# Cooler way
 
 ```sh
 # Clone the repository
@@ -21,3 +26,4 @@ cd auto_shutdown_steam_download
 
 # To run the program, use the following command:
 python -m main
+
