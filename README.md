@@ -19,7 +19,7 @@ git clone https://github.com/hkevint/auto_shutdown_steam_download.git
 # Navigate to the project directory
 cd auto_shutdown_steam_download
 
-# Setup
+# Setup (if no python installed)
 python -m setup
 
 # To run the program, use the following command:
