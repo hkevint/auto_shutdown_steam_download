@@ -16,7 +16,7 @@ setup(
     description="A tool to automatically shut down or put your computer to sleep after Steam finishes downloading queued updates.",
     license="MIT",
     keywords="steam shutdown sleep",
-    url="https://github.com/yourusername/auto_shutdown_steam_download",
+    url="https://github.com/hkevint/auto_shutdown_steam_download",
     classifiers=[
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3",
