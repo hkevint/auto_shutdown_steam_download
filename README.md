@@ -1,6 +1,6 @@
 # Auto-Shutdown Steam Download
 
-A simple tool to automatically shut down or put your computer to sleep after Steam finishes downloading queued updates.
+A simple tool to automatically shut down or put your computer to sleep after Steam finishes downloading queued game updates or downloads.
 
 ## Features
 
