@@ -15,16 +15,12 @@ To get started with Auto-Shutdown Steam Download, follow these steps:
 ```sh
 # Clone the repository
 git clone https://github.com/yourusername/auto_shutdown_steam_download.git
-```
-```sh
+
 # Navigate to the project directory
 cd auto_shutdown_steam_download
-```
-```sh
+
 # Install the required dependencies
 pip install -r requirements.txt
-```
-```sh
-# Run
+
+# To run the program, use the following command:
 python -m auto_shutdown_steam_download.main
-```
