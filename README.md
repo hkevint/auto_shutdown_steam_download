@@ -10,6 +10,15 @@ A simple tool to automatically shut down or put your computer to sleep after Ste
 
 ## Installation
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/auto_shutdown_steam_download.git
+To get started with Auto-Shutdown Steam Download, follow these steps:
+
+```sh
+# Clone the repository
+git clone https://github.com/yourusername/auto_shutdown_steam_download.git
+
+# Navigate to the project directory
+cd auto_shutdown_steam_download
+
+# Install the required dependencies
+pip install -r requirements.txt
+
