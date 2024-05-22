@@ -19,8 +19,8 @@ git clone https://github.com/hkevint/auto_shutdown_steam_download.git
 # Navigate to the project directory
 cd auto_shutdown_steam_download
 
-# Install the required dependencies
-pip install -r requirements.txt
+# Setup
+python -m setup
 
 # To run the program, use the following command:
-python -m auto_shutdown_steam_download.main
+python -m main
