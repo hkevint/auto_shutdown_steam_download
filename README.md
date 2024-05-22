@@ -14,7 +14,7 @@ To get started with Auto-Shutdown Steam Download, follow these steps:
 
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/auto_shutdown_steam_download.git
+git clone https://github.com/hkevint/auto_shutdown_steam_download.git
 
 # Navigate to the project directory
 cd auto_shutdown_steam_download
