@@ -8,7 +8,7 @@ A simple tool to automatically shut down or put your computer to sleep after Ste
 - Options to shut down or put your computer to sleep.
 - Cancel the operation with a 10-second countdown.
 
-## Installation
+## Installation (have python installed)
 
 To get started with Auto-Shutdown Steam Download, follow these steps:
 
@@ -19,7 +19,7 @@ git clone https://github.com/hkevint/auto_shutdown_steam_download.git
 # Navigate to the project directory
 cd auto_shutdown_steam_download
 
-# Setup (if no python installed)
+# Setup
 python -m setup
 
 # To run the program, use the following command:
